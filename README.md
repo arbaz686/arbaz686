@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arbaz Ahmad</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbaz686" alt="arbaz686" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/4rbxz" target="blank"><img src="https://img.shields.io/twitter/follow/4rbxz?logo=twitter&style=for-the-badge" alt="4rbxz" /></a> </p>
 
 - 👨‍💻 I have experience of **Software Development (7 months)**
