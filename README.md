@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/4rbxz" target="blank"><img src="https://img.shields.io/twitter/follow/4rbxz?logo=twitter&style=for-the-badge" alt="4rbxz" /></a> </p>
 
-- 👨‍💻 I have experience of **Software Development**
+- 👨‍💻 I have experience in **Software Development**
 
 - 🌱 I’m currently learning **Generative AI (Google Cloud Skills Boost)**
 
