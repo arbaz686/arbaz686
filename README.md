@@ -1,11 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
-
 <h1 align="center">Hi 👋, I'm Arbaz Ahmad</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/4rbxz" target="blank"><img src="https://img.shields.io/twitter/follow/4rbxz?logo=twitter&style=for-the-badge" alt="4rbxz" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 I have experience of **Software Development (7 months)**
 
