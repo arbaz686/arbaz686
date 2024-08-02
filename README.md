@@ -89,3 +89,9 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/l3q2F7Xs7b5E7Ykxy/giphy.gif" alt="Offer" width="50" height="50"> Offers are always welcome!
 </h3>
+
+<!-- Extra animations -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6zro8oQAALgRO/giphy.gif" alt="Coding" width="200" height="200">
+  <img src="https://media.giphy.com/media/l0HlMPh2dcYz0aL7m/giphy.gif" alt="Technology" width="200" height="200">
+</p>
