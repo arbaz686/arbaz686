@@ -1,11 +1,31 @@
 <h1 align="center">Hi 👋, I'm Arbaz Ahmad</h1>
 
-- 👨‍💻 **Experience**: Software Development
-- 💬 **Ask me about**: Frameworks and Algorithms
-- 📫 **Contact me**: ahmadarbaz686@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer" width="200" height="200">
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Passionate Software Developer with a knack for creating seamless and efficient solutions. 
+  Let's build something amazing together!
+</p>
+
+<h3 align="center">👨‍💻 Experience:</h3>
+<p align="center">
+  - Software Development
+</p>
+
+<h3 align="center">💬 Ask me about:</h3>
+<p align="center">
+  - Frameworks and Algorithms
+</p>
+
+<h3 align="center">📫 Contact me:</h3>
+<p align="center">
+  <a href="mailto:ahmadarbaz686@gmail.com">ahmadarbaz686@gmail.com</a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/4rbxz" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -14,8 +34,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -55,4 +75,17 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
 </p>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/l3q2F7Xs7b5E7Ykxy/giphy.gif" alt="Offer" width="50" height="50"> Offers are always welcome!
+</h3>
